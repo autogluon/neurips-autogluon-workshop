@@ -17,9 +17,7 @@ Room 293.
 
 ## Schedule
 
-For each section, there will be a 10-15min QA at the end of section. For hands-on tutorials, 
-we will provide notebooks for you to try out AutoGluon via [SageMaker Studio Lab](https://aws.amazon.com/sagemaker/studio-lab/) for [Google Colab](https://colab.research.google.com/).
-
+For each section, there will be a 10-15min QA at the end of section.
 | Section                                                | Speaker                                                                               | Duration (CST timezone) | Slides | 
 |--------------------------------------------------------|---------------------------------------------------------------------------------------|-------------------------|--------|
 | [Introduction + AutoGluon Tabular](#autogluon-tabular) | [Nick Erickson](https://github.com/Innixma)                                           | 2:00PM -- 3:00PM        | TBA    |
@@ -56,6 +54,9 @@ we will provide notebooks for you to try out AutoGluon via [SageMaker Studio Lab
 TBA
 
 ### Hands-on Notebooks
-TBA
+
+For hands-on tutorials, we provide notebooks for you to try out AutoGluon via [SageMaker Studio Lab](https://aws.amazon.com/sagemaker/studio-lab/) for [Google Colab](https://colab.research.google.com/).
+
+More details will be added.
 
 **Checkout [AutoGluon Website](https://auto.gluon.ai/) and get started!**
