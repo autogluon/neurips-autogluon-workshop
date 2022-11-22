@@ -27,7 +27,7 @@ each session that people can try out asynchronously.
 | [AutoGluon Multimodal](#autogluon-multimodal)          | [Xingjian Shi](https://github.com/sxjscience), [Yi Zhu](https://github.com/bryanyzhu) | 3:05PM -- 4:00PM        | TBA    |
 | Break                                                  | -                                                                                     | 4:00PM -- 4:10PM        | -      |
 | [AutoGluon Timeseries](#autogluon-timeseries)          | [Caner Turkmen](https://github.com/canerturkmen)                                      | 4:10PM -- 4:50PM        | TBA    |
-| Feedback                                               | All speakers                                                                          | 4:50PM -- 5:00PM        | -      |
+| Additional QA + Feedback                               | All speakers                                                                          | 4:50PM -- 5:00PM        | -      |
 
 
 ## Section Outline and Materials
