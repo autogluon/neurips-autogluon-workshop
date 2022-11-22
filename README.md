@@ -17,15 +17,14 @@ Room 293.
 
 ## Schedule
 
-| Title                             | Speaker                                                                               | Duration (CST timezone) | Slides | 
-|-----------------------------------|---------------------------------------------------------------------------------------|-------------------------|--------|
-| Introduction + AutoGluon Tabular  | [Nick Erickson](https://github.com/Innixma)                                           | 2:00PM -- 2:45PM        | TBA    |
-| QA                                | -                                                                                     | 2:45PM -- 3:00PM        | -      |
-| AutoGluon Multimodal              | [Xingjian Shi](https://github.com/sxjscience), [Yi Zhu](https://github.com/bryanyzhu) | 3:00PM -- 3:45PM        | TBA    |
-| QA                                | -                                                                                     | 3:45PM -- 4:00PM        | -      |
-| AutoGluon Timeseries              | [Caner Turkmen](https://github.com/canerturkmen)                                      | 4:00PM -- 4:30PM        | TBA    |
-| QA                                | -                                                                                     | 4:30PM -- 4:45PM        | -      |
-| Additional Hands-on Tutorial + QA | -                                                                                     | 4:45PM -- 5:00PM        | TBA    |
+For each section, there will be a 10-15min QA at the end of section
+
+| Section                          | Speaker                                                                               | Duration (CST timezone) | Slides | 
+|----------------------------------|---------------------------------------------------------------------------------------|-------------------------|--------|
+| Introduction + AutoGluon Tabular | [Nick Erickson](https://github.com/Innixma)                                           | 2:00PM -- 3:00PM        | TBA    |
+| AutoGluon Multimodal             | [Xingjian Shi](https://github.com/sxjscience), [Yi Zhu](https://github.com/bryanyzhu) | 3:00PM -- 4:00PM        | TBA    |
+| AutoGluon Timeseries             | [Caner Turkmen](https://github.com/canerturkmen)                                      | 4:00PM -- 4:45PM        | TBA    |
+| Additional Hands-on Tutorial     | -                                                                                     | 4:45PM -- 5:00PM        | TBA    |
 
 
 Checkout [AutoGluon Installation Guide](https://auto.gluon.ai/stable/install.html) and get started!
