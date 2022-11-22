@@ -1,7 +1,7 @@
 # AutoGluon: Empowering (Multimodal) AutoML for the Next 10 Million Users
 
 Automated machine learning (AutoML) offers the promise of translating raw data into accurate predictions without the need for 
-significant human effort, expertise, and manual experimentation. In this workshop, we introduce [AutoGluon](https://github.com/awslabs/autogluon), 
+significant human effort, expertise, and manual experimentation. In this workshop, we introduce [AutoGluon](https://github.com/autogluon/autogluon), 
 a state-of-the-art and easy-to-use toolkit that empowers *multimodal* AutoML. Different from most AutoML systems that focus on solving tabular tasks 
 containing categorical and numerical features, we consider supervised learning tasks on various types of data including tabular 
 features, text, image, timeseries, as well as their combinations. We will introduce the real-world problems that AutoGluon can help you 
