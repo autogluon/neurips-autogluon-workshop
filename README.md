@@ -1,4 +1,4 @@
-# AutoGluon: Empowering Multimodal AutoML for the Next 10 Million Users
+# AutoGluon: Empowering (Multimodal) AutoML for the Next 10 Million Users
 
 Automated machine learning (AutoML) offers the promise of translating raw data into accurate predictions without the need for 
 significant human effort, expertise, and manual experimentation. In this workshop, we introduce [AutoGluon](https://github.com/awslabs/autogluon), 
