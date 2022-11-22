@@ -17,7 +17,8 @@ Room 293.
 
 ## Schedule
 
-For each section, there will be a 10-15min QA at the end of section.
+For each section, there will be a 10-15min QA at the end of section. In addition, there will be [additional hands-on notebooks](#hands-on-notebooks) after 
+each session that people can try out asynchronously.
 
 | Section                                                | Speaker                                                                               | Duration (CST timezone) | Slides | 
 |--------------------------------------------------------|---------------------------------------------------------------------------------------|-------------------------|--------|
@@ -38,7 +39,8 @@ For each section, there will be a 10-15min QA at the end of section.
 - Discussion of model combination strategies (stacking, bagging, model aggregation)
 - Constraint satisfaction and engineering for a performance envelope (accuracy, speed, compute resources)
 - Benchmark comparisons showcasing the advancement of AutoML systems in recent years both compared to earlier AutoML systems and human data scientists (4 AutoML frameworks, 104 OpenML datasets, 10 Kaggle datasets)
- 
+
+
 ### AutoGluon Multimodal
 
 - Real-world multimodal problems (life beyond captioning images)
