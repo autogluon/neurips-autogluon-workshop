@@ -25,7 +25,7 @@ we will provide notebooks for you to try out AutoGluon via [SageMaker Studio Lab
 | [Introduction + AutoGluon Tabular](#autogluon-tabular) | [Nick Erickson](https://github.com/Innixma)                                           | 2:00PM -- 3:00PM        | TBA    |
 | [AutoGluon Multimodal](#autogluon-multimodal)          | [Xingjian Shi](https://github.com/sxjscience), [Yi Zhu](https://github.com/bryanyzhu) | 3:00PM -- 4:00PM        | TBA    |
 | [AutoGluon Timeseries](#autogluon-timeseries)          | [Caner Turkmen](https://github.com/canerturkmen)                                      | 4:00PM -- 4:45PM        | TBA    |
-| [Additional Hands-on Tutorial](#hands-on-notebooks)    | All speakers                                                                          | 4:45PM -- 5:00PM        | TBA    |
+| [Additional Hands-on Tutorial](#hands-on-notebooks)    | [Xingjian Shi](https://github.com/sxjscience)                                         | 4:45PM -- 5:00PM        | TBA    |
 
 
 ## Section Outline and Materials
