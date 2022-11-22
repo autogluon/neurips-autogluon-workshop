@@ -18,6 +18,7 @@ Room 293.
 ## Schedule
 
 For each section, there will be a 10-15min QA at the end of section.
+
 | Section                                                | Speaker                                                                               | Duration (CST timezone) | Slides | 
 |--------------------------------------------------------|---------------------------------------------------------------------------------------|-------------------------|--------|
 | [Introduction + AutoGluon Tabular](#autogluon-tabular) | [Nick Erickson](https://github.com/Innixma)                                           | 2:00PM -- 3:00PM        | TBA    |
