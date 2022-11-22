@@ -20,12 +20,42 @@ Room 293.
 For each section, there will be a 10-15min QA at the end of section. For hands-on tutorials, 
 we will provide notebooks for you to try out AutoGluon via [SageMaker Studio Lab](https://aws.amazon.com/sagemaker/studio-lab/) for [Google Colab](https://colab.research.google.com/).
 
-| Section                          | Speaker                                                                               | Duration (CST timezone) | Slides | 
-|----------------------------------|---------------------------------------------------------------------------------------|-------------------------|--------|
-| Introduction + AutoGluon Tabular | [Nick Erickson](https://github.com/Innixma)                                           | 2:00PM -- 3:00PM        | TBA    |
-| AutoGluon Multimodal             | [Xingjian Shi](https://github.com/sxjscience), [Yi Zhu](https://github.com/bryanyzhu) | 3:00PM -- 4:00PM        | TBA    |
-| AutoGluon Timeseries             | [Caner Turkmen](https://github.com/canerturkmen)                                      | 4:00PM -- 4:45PM        | TBA    |
-| Additional Hands-on Tutorial     | All speakers                                                                          | 4:45PM -- 5:00PM        | TBA    |
+| Section                                                | Speaker                                                                               | Duration (CST timezone) | Slides | 
+|--------------------------------------------------------|---------------------------------------------------------------------------------------|-------------------------|--------|
+| [Introduction + AutoGluon Tabular](#autogluon-tabular) | [Nick Erickson](https://github.com/Innixma)                                           | 2:00PM -- 3:00PM        | TBA    |
+| [AutoGluon Multimodal](#autogluon-multimodal)          | [Xingjian Shi](https://github.com/sxjscience), [Yi Zhu](https://github.com/bryanyzhu) | 3:00PM -- 4:00PM        | TBA    |
+| [AutoGluon Timeseries](#autogluon-timeseries)          | [Caner Turkmen](https://github.com/canerturkmen)                                      | 4:00PM -- 4:45PM        | TBA    |
+| [Additional Hands-on Tutorial](#hands-on-notebooks)    | All speakers                                                                          | 4:45PM -- 5:00PM        | TBA    |
 
+
+## Section Outline and Materials
+
+### AutoGluon Tabular
+
+- AutoML Basics: Discussion of core AutoML principles
+- History of competition ML and how it influenced the design of modern AutoML systems
+- Discussion of model combination strategies (stacking, bagging, model aggregation)
+- Constraint satisfaction and engineering for a performance envelope (accuracy, speed, compute resources)
+- Benchmark comparisons showcasing the advancement of AutoML systems in recent years both compared to earlier AutoML systems and human data scientists (4 AutoML frameworks, 104 OpenML datasets, 10 Kaggle datasets)
+ 
+### AutoGluon Multimodal
+
+- Real-world multimodal problems (life beyond captioning images)
+- Foundation models for image and text
+- Fusion techniques
+- Image classification
+- Object detection
+- Hyper-parameter optimization
+- Zero-shot image classification
+- Multimodal matching
+- Model distillation
+- Parameter-efficient finetuning
+
+### AutoGluon Timeseries
+TBA
+
+### Hands-on Notebooks
+TBA
 
 Checkout [AutoGluon Installation Guide](https://auto.gluon.ai/stable/install.html) and get started!
+
