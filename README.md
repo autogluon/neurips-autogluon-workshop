@@ -26,3 +26,6 @@ Room 293.
 | AutoGluon Timeseries              | [Caner Turkmen](https://github.com/canerturkmen)                                      | 4:00PM -- 4:30PM        | TBA    |
 | QA                                | -                                                                                     | 4:30PM -- 4:45PM        | -      |
 | Additional Hands-on Tutorial + QA | -                                                                                     | 4:45PM -- 5:00PM        | TBA    |
+
+
+Checkout [AutoGluon Installation Guide](https://auto.gluon.ai/stable/install.html) and get started!
