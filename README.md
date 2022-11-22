@@ -57,5 +57,3 @@ TBA
 TBA
 
 **Checkout [AutoGluon Website](https://auto.gluon.ai/) and get started!**
-
-
