@@ -47,8 +47,10 @@ we will provide notebooks for you to try out AutoGluon via [SageMaker Studio Lab
 - Hyper-parameter optimization
 - Zero-shot image classification
 - Multimodal matching
-- Model distillation
-- Parameter-efficient finetuning
+- Foundation models are larger
+  - Training: Parameter-efficient finetuning
+  - Deployment: Model distillation
+
 
 ### AutoGluon Timeseries
 TBA
