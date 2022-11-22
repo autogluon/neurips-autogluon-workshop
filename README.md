@@ -9,7 +9,7 @@ solve within three lines of code and the fundamental techniques adopted in the t
 Rather than diving deep into the mechanisms underlining each individual ML models, 
 we emphasize on how you can take advantage of a diverse collection of models to build an automated ML pipeline.
 Our workshop will also emphasize on the techniques behind automatically building and training deep learning models, 
-which are powerful yet cumbersome to manage manually. Hardly any educational material describes their successful automation.
+which are powerful yet cumbersome to manage manually.
 
 Join us at the [NeurIPS 2022](https://nips.cc/) located at New Orleans Ernest N. Morial Convention Center on Monday, November 28 at 2:00pm, CST in 
 Room 293.
