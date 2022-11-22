@@ -17,14 +17,15 @@ Room 293.
 
 ## Schedule
 
-For each section, there will be a 10-15min QA at the end of section
+For each section, there will be a 10-15min QA at the end of section. For hands-on tutorials, 
+we will provide notebooks for you to try out AutoGluon via [SageMaker Studio Lab](https://aws.amazon.com/sagemaker/studio-lab/) for [Google Colab](https://colab.research.google.com/).
 
 | Section                          | Speaker                                                                               | Duration (CST timezone) | Slides | 
 |----------------------------------|---------------------------------------------------------------------------------------|-------------------------|--------|
 | Introduction + AutoGluon Tabular | [Nick Erickson](https://github.com/Innixma)                                           | 2:00PM -- 3:00PM        | TBA    |
 | AutoGluon Multimodal             | [Xingjian Shi](https://github.com/sxjscience), [Yi Zhu](https://github.com/bryanyzhu) | 3:00PM -- 4:00PM        | TBA    |
 | AutoGluon Timeseries             | [Caner Turkmen](https://github.com/canerturkmen)                                      | 4:00PM -- 4:45PM        | TBA    |
-| Additional Hands-on Tutorial     | -                                                                                     | 4:45PM -- 5:00PM        | TBA    |
+| Additional Hands-on Tutorial     | All speakers                                                                          | 4:45PM -- 5:00PM        | TBA    |
 
 
 Checkout [AutoGluon Installation Guide](https://auto.gluon.ai/stable/install.html) and get started!
