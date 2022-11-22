@@ -21,10 +21,12 @@ For each section, there will be a 10-15min QA at the end of section.
 
 | Section                                                | Speaker                                                                               | Duration (CST timezone) | Slides | 
 |--------------------------------------------------------|---------------------------------------------------------------------------------------|-------------------------|--------|
-| [Introduction + AutoGluon Tabular](#autogluon-tabular) | [Nick Erickson](https://github.com/Innixma)                                           | 2:00PM -- 3:00PM        | TBA    |
-| [AutoGluon Multimodal](#autogluon-multimodal)          | [Xingjian Shi](https://github.com/sxjscience), [Yi Zhu](https://github.com/bryanyzhu) | 3:00PM -- 4:00PM        | TBA    |
-| [AutoGluon Timeseries](#autogluon-timeseries)          | [Caner Turkmen](https://github.com/canerturkmen)                                      | 4:00PM -- 4:45PM        | TBA    |
-| [Additional Hands-on Notebooks](#hands-on-notebooks)   | All speakers                                                                          | 4:45PM -- 5:00PM        | TBA    |
+| [Introduction + AutoGluon Tabular](#autogluon-tabular) | [Nick Erickson](https://github.com/Innixma)                                           | 2:00PM -- 2:55PM        | TBA    |
+| Break                                                  | -                                                                                     | 2:55PM -- 3:05PM        | -      |
+| [AutoGluon Multimodal](#autogluon-multimodal)          | [Xingjian Shi](https://github.com/sxjscience), [Yi Zhu](https://github.com/bryanyzhu) | 3:05PM -- 4:00PM        | TBA    |
+| Break                                                  | -                                                                                     | 4:00PM -- 4:10PM        | -      |
+| [AutoGluon Timeseries](#autogluon-timeseries)          | [Caner Turkmen](https://github.com/canerturkmen)                                      | 4:10PM -- 4:50PM        | TBA    |
+| Feedback                                               | All speakers                                                                          | 4:50PM -- 5:00PM        | -      |
 
 
 ## Section Outline and Materials
