@@ -66,7 +66,7 @@ each session that people can try out asynchronously.
 
 ### Hands-on Notebooks
 
-For hands-on tutorials, we provide notebooks for you to try out AutoGluon via [SageMaker Studio Lab](https://aws.amazon.com/sagemaker/studio-lab/) for [Google Colab](https://colab.research.google.com/).
+For hands-on tutorials, we provide notebooks for you to try out AutoGluon via [SageMaker Studio Lab](https://aws.amazon.com/sagemaker/studio-lab/) or [Google Colab](https://colab.research.google.com/).
 
 More details will be added.
 
