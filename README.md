@@ -4,7 +4,7 @@ Automated machine learning (AutoML) offers the promise of translating raw data i
 significant human effort, expertise, and manual experimentation. In this workshop, we introduce [AutoGluon](https://github.com/autogluon/autogluon), 
 a state-of-the-art and easy-to-use toolkit that empowers *multimodal* AutoML. Different from most AutoML systems that focus on solving tabular tasks 
 containing categorical and numerical features, we consider supervised learning tasks on various types of data including tabular 
-features, text, image, timeseries, as well as their combinations. We will introduce the real-world problems that AutoGluon can help you 
+features, text, image, time series, as well as their combinations. We will introduce the real-world problems that AutoGluon can help you 
 solve within three lines of code and the fundamental techniques adopted in the toolkit.
 Rather than diving deep into the mechanisms underlining each individual ML models, 
 we emphasize on how you can take advantage of a diverse collection of models to build an automated ML pipeline.
@@ -56,7 +56,13 @@ each session that people can try out asynchronously.
 
 
 ### AutoGluon Timeseries
-TBA
+
+- Time series forecasting in a nutshell
+- An overview of machine learning for forecasting
+- AutoML in time series and unique challenges
+- Forecasting with AutoGluon-TimeSeries
+- Looking forward in time series AutoML
+
 
 ### Hands-on Notebooks
 
