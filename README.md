@@ -14,6 +14,8 @@ which are powerful yet cumbersome to manage manually.
 Join us at the [NeurIPS 2022](https://nips.cc/) located at New Orleans Ernest N. Morial Convention Center on Monday, November 28 at 2:00pm, CST in 
 Room 293.
 
+*Note: Github repository for this website is available at https://github.com/autogluon/neurips2022-autogluon-workshop* . 
+
 
 ## Schedule
 
