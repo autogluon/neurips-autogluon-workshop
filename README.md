@@ -20,14 +20,14 @@ Room 293.
 For each section, there will be a 10-15min QA at the end of section. In addition, there will be [additional hands-on notebooks](#hands-on-notebooks) after 
 each session that people can try out asynchronously.
 
-| Section                                                | Speaker                                                                               | Duration (CST timezone) | Slides | Cheatsheet                                                                                                                                                                                                                                                          |
-|--------------------------------------------------------|---------------------------------------------------------------------------------------|-------------------------|--------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Introduction + AutoGluon Tabular](#autogluon-tabular) | [Nick Erickson](https://github.com/Innixma)                                           | 2:00PM -- 2:55PM        | TBA    | [![tabular-cheatsheet](https://raw.githubusercontent.com/Innixma/autogluon-doc-utils/main/docs/cheatsheets/stable/autogluon-cheat-sheet.jpeg)](https://nbviewer.org/github/Innixma/autogluon-doc-utils/blob/main/docs/cheatsheets/stable/autogluon-cheat-sheet.pdf) |
-| Break                                                  | -                                                                                     | 2:55PM -- 3:05PM        | -      |                                                                                                                                                                                                                                                                     |
-| [AutoGluon Multimodal](#autogluon-multimodal)          | [Xingjian Shi](https://github.com/sxjscience), [Yi Zhu](https://github.com/bryanyzhu) | 3:05PM -- 4:00PM        | TBA    | [![multimodal-cheatsheet](https://automl-mm-bench.s3-accelerate.amazonaws.com/cheatsheet/v0.6.0/AutoGluon_Multimodal_Cheatsheet_v0.6.0.png)](https://automl-mm-bench.s3-accelerate.amazonaws.com/cheatsheet/v0.6.0/AutoGluon_Multimodal_Cheatsheet_v0.6.0.pdf)      |
-| Break                                                  | -                                                                                     | 4:00PM -- 4:10PM        | -      |                                                                                                                                                                                                                                                                     |
-| [AutoGluon Timeseries](#autogluon-timeseries)          | [Caner Turkmen](https://github.com/canerturkmen)                                      | 4:10PM -- 4:50PM        | TBA    | [![timeseries-cheatsheet](https://autogluon-timeseries-datasets.s3.us-west-2.amazonaws.com/public/autogluon_timeseries_cheatsheet.png)](https://autogluon-timeseries-datasets.s3.us-west-2.amazonaws.com/public/autogluon_timeseries_cheatsheet.pdf)  |
-| Additional QA + Feedback                               | All speakers                                                                          | 4:50PM -- 5:00PM        | -      |                                                                                                                                                                                                                                                                     |
+| Topic                                                  | Speaker                                                                               | Duration (CST timezone) | Slides                                                                                                                                          | Cheatsheet                                                                                                                                                                                                                                                                                                                                       |
+|--------------------------------------------------------|---------------------------------------------------------------------------------------|-------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [Introduction + AutoGluon Tabular](#autogluon-tabular) | [Nick Erickson](https://github.com/Innixma)                                           | 2:00PM -- 2:55PM        | TBA                                                                                                                                             | [![tabular-cheatsheet](https://raw.githubusercontent.com/Innixma/autogluon-doc-utils/main/docs/cheatsheets/stable/autogluon-cheat-sheet.jpeg)](https://nbviewer.org/github/Innixma/autogluon-doc-utils/blob/main/docs/cheatsheets/stable/autogluon-cheat-sheet.pdf) [docc](https://auto.gluon.ai/stable/tutorials/tabular_prediction/index.html) |
+| Break                                                  | -                                                                                     | 2:55PM -- 3:05PM        | -                                                                                                                                               |                                                                                                                                                                                                                                                                                                                                                  |
+| [AutoGluon Multimodal](#autogluon-multimodal)          | [Xingjian Shi](https://github.com/sxjscience), [Yi Zhu](https://github.com/bryanyzhu) | 3:05PM -- 4:00PM        | [link](https://docs.google.com/presentation/d/1p3GKtZpSvIgw7DqyTammwcv1TtBYHcbW/edit?usp=sharing&ouid=117434028345007023633&rtpof=true&sd=true) | [![multimodal-cheatsheet](https://automl-mm-bench.s3-accelerate.amazonaws.com/cheatsheet/v0.6.0/AutoGluon_Multimodal_Cheatsheet_v0.6.0.png)](https://automl-mm-bench.s3-accelerate.amazonaws.com/cheatsheet/v0.6.0/AutoGluon_Multimodal_Cheatsheet_v0.6.0.pdf) [docs](https://auto.gluon.ai/stable/tutorials/multimodal/index.html)              |
+| Break                                                  | -                                                                                     | 4:00PM -- 4:10PM        | -                                                                                                                                               |                                                                                                                                                                                                                                                                                                                                                  |
+| [AutoGluon Timeseries](#autogluon-timeseries)          | [Caner Turkmen](https://github.com/canerturkmen)                                      | 4:10PM -- 4:50PM        | TBA                                                                                                                                             | [![timeseries-cheatsheet](https://autogluon-timeseries-datasets.s3.us-west-2.amazonaws.com/public/autogluon_timeseries_cheatsheet.png)](https://autogluon-timeseries-datasets.s3.us-west-2.amazonaws.com/public/autogluon_timeseries_cheatsheet.pdf) [docs](https://auto.gluon.ai/stable/tutorials/timeseries/index.html)                        |
+| Additional QA + Feedback                               | All speakers                                                                          | 4:50PM -- 5:00PM        | -                                                                                                                                               |                                                                                                                                                                                                                                                                                                                                                  |
 
 
 ## Section Outline and Materials
@@ -45,15 +45,14 @@ each session that people can try out asynchronously.
 
 - Real-world multimodal problems (life beyond captioning images)
 - Foundation models for image and text
-- Fusion techniques
+- Fusion techniques & ensemble FMs / tabular models 
 - Object detection
-- Hyper-parameter optimization
-- Zero-shot image classification
 - Multimodal matching
-- Foundation models are larger
+- Advanced topics
   - Training: Parameter-efficient finetuning
   - Deployment: Model distillation
-
+  - Hyper-parameter optimization
+- Hands-on notebooks + QA: [multimodal notebooks](./notebooks/multimodal)
 
 ### AutoGluon Timeseries
 
@@ -68,6 +67,6 @@ each session that people can try out asynchronously.
 
 For hands-on tutorials, we provide notebooks for you to try out AutoGluon via [SageMaker Studio Lab](https://aws.amazon.com/sagemaker/studio-lab/) or [Google Colab](https://colab.research.google.com/).
 
-More details will be added.
+All notebooks can be found in [notebooks](./notebooks).
 
 **Checkout [AutoGluon Website](https://auto.gluon.ai/) and get started!**
