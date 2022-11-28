@@ -16,6 +16,8 @@ Room 293.
 
 *Note: Github repository for this website is available at https://github.com/autogluon/neurips2022-autogluon-workshop* . 
 
+Please take a simple [survey](https://www.surveymonkey.com/r/TVYBFG3) (less than 1 minute) for feature request and feedback, we appreciate your input.
+
 
 ## Schedule
 
