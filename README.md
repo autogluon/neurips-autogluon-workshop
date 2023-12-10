@@ -5,7 +5,7 @@ solve within three lines of code and the fundamental techniques adopted in the t
 Rather than diving deep into the mechanisms underlining each individual ML models, 
 we emphasize on how you can take advantage of a diverse collection of models to build an automated ML pipeline. Our workshop will also emphasize on the techniques behind automatically building and training deep learning models, which are powerful yet cumbersome to manage manually.
 
-Join us at the [NeurIPS 2023](https://nips.cc/) located at New Orleans Ernest N. Morial Convention Center on Sunday, December 10th, 2023 at 12:00pm, CST in Room 214.
+Join us at the [NeurIPS 2023](https://nips.cc/) located at New Orleans Ernest N. Morial Convention Center on Sunday, December 10th, 2023 at 2:00pm, CST in Room 214.
 
 ## Schedule
 
