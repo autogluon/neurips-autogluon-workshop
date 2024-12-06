@@ -3,12 +3,13 @@
 Automated machine learning (AutoML) offers the promise of translating raw data into accurate predictions without the need for significant human effort, expertise, and manual experimentation.
 In this workshop, we introduce [AutoGluon](https://github.com/autogluon/autogluon), a state-of-the-art and easy-to-use toolkit that empowers *multimodal* AutoML.
 Different from most AutoML systems that focus on solving tabular tasks containing categorical and numerical features, we consider supervised learning tasks on various types of data including tabular features, text, image, time series, as well as their combinations.
-We will highlight how foundational models can be used to streamline and improve AutoML.
-Particularly, we will discuss our TabPFN-Mix and Chronos family of foundation models for tabular and time series data, respectively.
+We will emphasize how foundational models can streamline and enhance AutoML performance.
+Specifically, we will discuss our TabPFN-Mix and Chronos foundational model families for tabular and time series data, respectively.
 We will introduce the real-world problems that AutoGluon can help you solve within three lines of code and the fundamental techniques adopted in the toolkit. 
 Rather than diving deep into the mechanisms underlining each individual ML models, we emphasize on how you can take advantage of a diverse collection of models to build an automated ML pipeline.
-We will also introduce [AutoGluon-Assistant](https://github.com/autogluon/autogluon-assistant) (AG-A) takes AutoGluon's automation from three lines of code to zero, enabling users to solve new supervised learning tabular problems using only natural language descriptions.
-AG-A combines the natural language understanding properties of large language models (LLMs) with the state-of-the-art AutoML capabilities of AutoGluon to develop highly accurate and competitive ML solutions only based on the data and a natural language description of the problem.
+Additionally, we will present [AutoGluon-Assistant (AG-A)](https://github.com/autogluon/autogluon-assistant), which advances AutoGluon's automation from three lines of code to zero.
+AG-A allows users to solve supervised tabular learning problems using only natural language descriptions.
+By integrating the natural language understanding capabilities of large language models (LLMs) with AutoGluon's advanced AutoML features, AG-A delivers highly accurate and competitive ML solutions based solely on the data and a natural language description of the problem.
 
 Join us at the [NeurIPS 2024](https://neurips.cc/) in **West Ballroom C** of the Vancouver Convention Center on Tuesday, **December 10th at 12:00 noon PST**.
 
