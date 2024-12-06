@@ -1,5 +1,5 @@
 remote_theme: pages-themes/primer@v0.6.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
-title: "AutoGluon 1.2: Advancing AutoML with Foundational Models and LLM Agents "
+title: "AutoGluon 1.2: Advancing AutoML with Foundational Models and LLM Agents"
 description: "NeurIPS 2024, West Ballroom C, Vancouver Convention Center, December 10th at 12:00 noon PST."

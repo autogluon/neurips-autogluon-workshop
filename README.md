@@ -1,5 +1,3 @@
-# AutoGluon 1.2: Advancing AutoML with Foundational Models and LLM Agents 
-
 Automated machine learning (AutoML) offers the promise of translating raw data into accurate predictions without the need for significant human effort, expertise, and manual experimentation.
 In this workshop, we introduce [AutoGluon](https://github.com/autogluon/autogluon), a state-of-the-art and easy-to-use AutoML framework.
 We will emphasize how foundational models can streamline and enhance AutoML performance.
