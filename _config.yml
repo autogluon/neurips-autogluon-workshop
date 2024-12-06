@@ -1,5 +1,5 @@
-remote_theme: pages-themes/hacker@v0.2.0
+remote_theme: pages-themes/primer@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
-title: "AutoGluon 1.0: AutoML at Your Fingertips"
-description: "NeurIPS 2023,  New Orleans Convention Center, 2:00pm CST December 10th, Room 214."
+title: "AutoGluon 1.2: Advancing AutoML with Foundational Models and LLM Agents "
+description: "NeurIPS 2024, West Ballroom C, Vancouver Convention Center, December 10th at 12:00 noon PST."
