@@ -40,12 +40,7 @@ For each section, there will be a 5 min QA at the end of section. In addition, t
 
 ### AutoGluon Timeseries
 
-- Time series forecasting in a nutshell
-- An overview of machine learning for forecasting
-- AutoML in time series and unique challenges
-- Forecasting with AutoGluon-TimeSeries
-- Looking forward in time series AutoML
-- Hands-on notebooks + QA
+- TODO
 
 ### Hands-on Notebooks
 
