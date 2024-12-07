@@ -22,6 +22,7 @@ There will be a 5 min QA at the end of each section. A link to the slides will b
 | [AutoGluon Assistant](#autogluon-assistant)            | [Boran Han](https://github.com/boranhan)            | 12:30PM -- 12:45PM      | [AG-A tutorial](https://github.com/autogluon/autogluon-assistant/blob/main/docs/tutorials/autogluon-assistant-quick-start.ipynb)    | [docs](https://github.com/autogluon/autogluon-assistant)                                                                                                                                                                                                                                                                                                                 |
 | [AutoGluon Timeseries](#autogluon-timeseries)          | [Abdul Fatir Ansari](https://github.com/abdulfatir) | 12:45PM    -- 01:15PM   | [timeseries quick start](https://colab.research.google.com/github/autogluon/autogluon/blob/stable/docs/tutorials/timeseries/forecasting-quick-start.ipynb), [chronos tutorial](https://colab.research.google.com/github/autogluon/autogluon/blob/stable/docs/tutorials/timeseries/forecasting-chronos.ipynb) | [![timeseries-cheatsheet](https://raw.githubusercontent.com/Innixma/autogluon-doc-utils/main/docs/cheatsheets/stable/timeseries/autogluon-cheat-sheet-ts.jpeg)](https://raw.githubusercontent.com/Innixma/autogluon-doc-utils/main/docs/cheatsheets/stable/timeseries/autogluon-cheat-sheet-ts.pdf) [docs](https://auto.gluon.ai/stable/tutorials/timeseries/index.html) |                                                                                                    |
 | [AutoGluon Multimodal](#autogluon-multimodal)          | [Shuai Zhang](https://github.com/cheungdaven) | 01:15PM -- 01:30PM        | [multimodal tutorial](https://colab.research.google.com/github/autogluon/autogluon/blob/stable/docs/tutorials/multimodal/multimodal_prediction/multimodal-quick-start.ipynb) | [![multimodal-cheatsheet](https://automl-mm-bench.s3-accelerate.amazonaws.com/cheatsheet/stable/automm.jpeg)](https://automl-mm-bench.s3-accelerate.amazonaws.com/cheatsheet/stable/automm.pdf) [docs](https://auto.gluon.ai/stable/tutorials/multimodal/index.html)                                                                                                    |
+| [AutoGluon RAG](#autogluon-rag)          | [Shuai Zhang](https://github.com/cheungdaven) | 01:15PM -- 01:30PM        | [AutoGluon RAG Tutorial](https://auto.gluon.ai/rag/dev/index.html) | [![autogluon-rag-cheatsheet]()]() [docs](https://auto.gluon.ai/rag/dev/index.html)                                                                                                    |
 | Additional QA + Feedback                               | All speakers                                        | TBD     |                                                                                                                                                                                                                                                                                                              | [docs](https://auto.gluon.ai/cloud/stable/index.html)                                                                                                                                                                                                                                                                                                                    |
 
 ## Section Outline and Materials
@@ -54,7 +55,19 @@ There will be a 5 min QA at the end of each section. A link to the slides will b
 
 ### AutoGluon Multimodal
 
-- WIP
+- AutoML & multimodal model finetuning
+- HPO, PEFT, KD with AutoGluon Multimodal
+- Automatic unimodal/multimodal classification and regression
+- Image Segmentation & Object detection
+- Multimodal Semantic Matching
+
+### AutoGluon RAG
+
+- RAG in three lines of code
+- VectorDB & fast search support
+- Fast inference with vLLM
+- Easy integration with AWS Bedrock and S3
+
 
 ### Hands-on Notebooks
 
